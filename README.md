@@ -1,14 +1,16 @@
 img background Photo by Emile Perron on Unsplash
 
 # portifolio
-portifolio do desenvolvedor
 
-## tarefas
+Portifolio do desenvolvedor
 
-o controle das tarefas desse projeto vai ser realizado no git hub
+## Tarefas
 
-## ícones
-:package: nova funcionalidade
-:up:atualizaçao
-:beatle:correção de bug
-:checkered_flag:release
+O controle das tarefas desse projeto será realizado no GitHub
+
+## Ícones
+
+- :package: nova funcionalidade
+- :up: atualização
+- :beetle: correção de bug
+- :checkered_flag: release
